@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>1.0.00001</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{4EDFEF11-1413-40F8-8521-CC46C34A28DC}</ProjectGuid>
+    <ProjectGuid>{DC4C094C-1CBE-4112-AA14-B2E6F50F4A92}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestHardCodeCSharp.Services.Tests</RootNamespace>
@@ -65,27 +65,27 @@
   <ItemGroup>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Services\TestHardCodeCSharp.Services.csproj">
-      <Project>{246521E3-5DA8-4B83-BEC2-336974F9B899}</Project>
+      <Project>{8DAEFD0C-1324-4B8A-A414-25DDC6C155EA}</Project>
       <Name>TestHardCodeCSharp.Services</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Services.Interfaces\TestHardCodeCSharp.Services.Interfaces.csproj">
-      <Project>{138A98C3-B3CE-4DD0-9AE0-9CB16F3EEA66}</Project>
+      <Project>{7E3C0519-280F-442A-8462-AFD701C8D107}</Project>
       <Name>TestHardCodeCSharp.Services.Interfaces</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Entities\TestHardCodeCSharp.Entities.csproj">
-      <Project>{4A8F01E1-7AFF-4AE1-AAE2-7FDCFE5E60E9}</Project>
+      <Project>{9AA28D8E-F03D-45B5-B4EC-D678F4A75D43}</Project>
       <Name>TestHardCodeCSharp.Entities</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.TestData\TestHardCodeCSharp.TestData.csproj">
-      <Project>{6C1407AB-2C55-4A9D-AC0C-A6558D3DF044}</Project>
+      <Project>{7E00447B-2D91-4D56-913D-73A1C9925C98}</Project>
       <Name>TestHardCodeCSharp.TestData</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Daos.Mocks\TestHardCodeCSharp.Daos.Mocks.csproj">
-      <Project>{641992A1-19E0-4369-A4E7-A514A8B54A0B}</Project>
+      <Project>{44808CBC-9763-428D-AEDF-1B3B9BCBB60A}</Project>
       <Name>TestHardCodeCSharp.Daos.Mocks</Name>
     </ProjectReference>
 

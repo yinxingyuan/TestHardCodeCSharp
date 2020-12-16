@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>1.0.00001</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{3F7A2591-D8A7-44C2-B381-65C1E2765215}</ProjectGuid>
+    <ProjectGuid>{BB65BC4E-8595-4225-82A1-131C0A5247BF}</ProjectGuid>
     <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -664,27 +664,27 @@
   <ItemGroup>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Entities\TestHardCodeCSharp.Entities.csproj">
-      <Project>{4A8F01E1-7AFF-4AE1-AAE2-7FDCFE5E60E9}</Project>
+      <Project>{9AA28D8E-F03D-45B5-B4EC-D678F4A75D43}</Project>
       <Name>TestHardCodeCSharp.Entities</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Daos.Interfaces\TestHardCodeCSharp.Daos.Interfaces.csproj">
-      <Project>{8D169EA5-15DE-40D2-BCD8-F9ED0B9A2014}</Project>
+      <Project>{410BA8B2-AF41-4B46-9B14-CA2A43CD2785}</Project>
       <Name>TestHardCodeCSharp.Daos.Interfaces</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Daos\TestHardCodeCSharp.Daos.csproj">
-      <Project>{FBCE5CA2-F762-49F0-852B-59B1E77DFFC3}</Project>
+      <Project>{AB5B6CA2-56EA-4E46-80F8-F7962A5133C6}</Project>
       <Name>TestHardCodeCSharp.Daos</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Services.Interfaces\TestHardCodeCSharp.Services.Interfaces.csproj">
-      <Project>{138A98C3-B3CE-4DD0-9AE0-9CB16F3EEA66}</Project>
+      <Project>{7E3C0519-280F-442A-8462-AFD701C8D107}</Project>
       <Name>TestHardCodeCSharp.Services.Interfaces</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Services\TestHardCodeCSharp.Services.csproj">
-      <Project>{246521E3-5DA8-4B83-BEC2-336974F9B899}</Project>
+      <Project>{8DAEFD0C-1324-4B8A-A414-25DDC6C155EA}</Project>
       <Name>TestHardCodeCSharp.Services</Name>
     </ProjectReference>
 

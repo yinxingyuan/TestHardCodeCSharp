@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>1.0.00001</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{FBCE5CA2-F762-49F0-852B-59B1E77DFFC3}</ProjectGuid>
+    <ProjectGuid>{AB5B6CA2-56EA-4E46-80F8-F7962A5133C6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestHardCodeCSharp.Daos</RootNamespace>
@@ -67,12 +67,12 @@
   <ItemGroup>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Daos.Interfaces\TestHardCodeCSharp.Daos.Interfaces.csproj">
-      <Project>{8D169EA5-15DE-40D2-BCD8-F9ED0B9A2014}</Project>
+      <Project>{410BA8B2-AF41-4B46-9B14-CA2A43CD2785}</Project>
       <Name>TestHardCodeCSharp.Daos.Interfaces</Name>
     </ProjectReference>
 
     <ProjectReference Include="..\TestHardCodeCSharp.Entities\TestHardCodeCSharp.Entities.csproj">
-      <Project>{4A8F01E1-7AFF-4AE1-AAE2-7FDCFE5E60E9}</Project>
+      <Project>{9AA28D8E-F03D-45B5-B4EC-D678F4A75D43}</Project>
       <Name>TestHardCodeCSharp.Entities</Name>
     </ProjectReference>
 
